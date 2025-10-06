@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcherDev93
 - 👀 I’m interested in Space and Web Development
-- 🌱 I’m currently learning React and GA4
+- 🌱 I’m currently Developing using Next.js and React
 - 📫 How to reach me: perezalfredo14@gmail.com
 
 <!---
